@@ -3,7 +3,7 @@ This application manages students information and course registartion process.
 
 The applicaion is originaly prepared in php, but i am making the public copy of it here in python. I assume you have python installed on your system python 2 or 3 as the time of writing.
 
-I am running python2 but ubuntu 16.04 has python 3 defaultly installed.
+I am running python2 but ubuntu 16.04 has python 3 by default.
 so i will be using pip2 in all my installation commands
 
 Running this application require the installation of virtual environment, and we will be using Flask libraries. on my ubuntu system this is how i go about it.
